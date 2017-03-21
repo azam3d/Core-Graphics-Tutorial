@@ -14,6 +14,7 @@
 		7B8045501E51C4200099A3F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B80454E1E51C4200099A3F7 /* LaunchScreen.storyboard */; };
 		7B80458F1E5DAC0C0099A3F7 /* FloUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B80458E1E5DAC0C0099A3F7 /* FloUITests.swift */; };
 		7BD488481E7931B900EC1261 /* PushButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD488471E7931B900EC1261 /* PushButtonView.swift */; };
+		7BD4884A1E79354C00EC1261 /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD488491E79354C00EC1261 /* CounterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		7B80458E1E5DAC0C0099A3F7 /* FloUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloUITests.swift; sourceTree = "<group>"; };
 		7B8045901E5DAC0C0099A3F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7BD488471E7931B900EC1261 /* PushButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PushButtonView.swift; sourceTree = "<group>"; };
+		7BD488491E79354C00EC1261 /* CounterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				7B8045451E51C4200099A3F7 /* AppDelegate.swift */,
 				7B8045471E51C4200099A3F7 /* ViewController.swift */,
 				7BD488471E7931B900EC1261 /* PushButtonView.swift */,
+				7BD488491E79354C00EC1261 /* CounterView.swift */,
 				7B8045491E51C4200099A3F7 /* Main.storyboard */,
 				7B80454C1E51C4200099A3F7 /* Assets.xcassets */,
 				7B80454E1E51C4200099A3F7 /* LaunchScreen.storyboard */,
@@ -207,6 +210,7 @@
 				7B8045481E51C4200099A3F7 /* ViewController.swift in Sources */,
 				7BD488481E7931B900EC1261 /* PushButtonView.swift in Sources */,
 				7B8045461E51C4200099A3F7 /* AppDelegate.swift in Sources */,
+				7BD4884A1E79354C00EC1261 /* CounterView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
