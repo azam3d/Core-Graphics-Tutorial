@@ -9,7 +9,7 @@
 import UIKit
 
 let NoOfGlasses = 8
-let π = CGFloat(M_PI)
+let π = CGFloat(Double.pi)
 
 @IBDesignable class CounterView: UIView {
     
